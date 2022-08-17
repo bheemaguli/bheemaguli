@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, Sumanth here.
+
+I consider myself a detail-oriented engineer with a zest for solving complex problems and try my best in solving them by first principles. I am looking for an ML pipeline-related position in a dynamic firm that values my analytical and technical skills and provides scope for updating my knowledge. If you believe I'm your guy, contact me at my [LinkedIn](https://www.linkedin.com/in/bheemaguli/)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bheemaguli&layout=compact)
 
 <!--
 **bheemaguli/bheemaguli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
